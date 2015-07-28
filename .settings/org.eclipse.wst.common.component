@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WF-base">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/configs"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/web"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/busisrc"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/daosrc"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/utilsrc"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/entitysrc"/>
+        <property name="context-root" value="WF-base"/>
+        <property name="java-output-path" value="/WF-base/build/classes"/>
+    </wb-module>
+</project-modules>
